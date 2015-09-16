@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:57.169199
+#+DATE: 2015-08-30 19:31:59.754191
 #+TITLE: 央掘魔羅經
 #+PROPERTY: CBETA_ID T02n0120
 #+PROPERTY: ID KR6a0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 120
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0120_T_000-0512b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0120_T_003-0531b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《央掘魔羅經》卷第三¶
+《央掘魔羅經》卷第三¶
 ¶
-宋天竺三藏求那跋陀羅譯¶
+宋天竺三藏藏求那跋陀羅譯¶
 
 爾時，佛告央掘魔羅：「云何為一學？」
 
@@ -713,7 +712,7 @@
 來藏經故，生安住身。我於無量阿僧祇劫恒¶
 河沙生，捨上宮殿轉輪王位無量快樂入山¶
 學道故，生宮殿身安樂不動。我於無量阿僧¶
-祇劫恒河沙生，離慢緩眾如避栴陀羅，於淨¶
+祇劫恒河沙生，離慢綏眾如避栴陀羅，於淨¶
 戒者乃至不同水器故，生不悔身。我於無量¶
 阿僧祇劫恒河沙生，輕無量眾生煩惱重擔
 <pb:KR6a0120_T_003-0537b>¶
